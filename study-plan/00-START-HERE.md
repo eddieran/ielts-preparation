@@ -8,6 +8,8 @@ Built **2026-06-28** for: target **7.5 overall** · currently **~6.5–7.0** · 
 |---|---|
 | **[30-day-plan.md](./30-day-plan.md)** | Your day-by-day schedule (Jun 29 → Jul 26). **This is the spine — open it daily.** |
 | [writing-toolkit.md](./writing-toolkit.md) | Task 1 + Task 2 structures, language banks, Band-7 checklists |
+| [task1-report-templates.md](./task1-report-templates.md) | Per-visual-type report skeletons + trends/comparison/process/map language bank + tense rules |
+| [task2-essay-templates.md](./task2-essay-templates.md) | Per-type essay skeletons + exhaustive connective word bank (with grammar rules) |
 | [speaking-toolkit.md](./speaking-toolkit.md) | Parts 1–3 frameworks, phrase banks, recent cue cards, Band-7 checklist |
 | [IELTS-2026-reference-dossier.md](./IELTS-2026-reference-dossier.md) | The verified facts: 2026 format, scoring, band descriptors, curated materials + links |
 | [progress-tracker.md](./progress-tracker.md) | Log sessions, mock scores, and error logs |

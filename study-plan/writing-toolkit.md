@@ -2,6 +2,9 @@
 
 Your weak area + double-weighted Task 2 = where most of your essay time should go. Always **Task 2 first** (40 min), then **Task 1** (20 min). Self-mark every piece against the descriptor tables in the [dossier](./IELTS-2026-reference-dossier.md).
 
+> For per-visual-type report skeletons + the trends/comparison/process/map language bank, see [task1-report-templates.md](./task1-report-templates.md).
+> For per-question-type essay skeletons and the full connective word bank, see [task2-essay-templates.md](./task2-essay-templates.md).
+
 ---
 
 ## Task 2 (the essay, ~40 min, ≥250 words, aim 270–310)
